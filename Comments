@@ -1,0 +1,5 @@
+RETO 3
+1. Se han escrito 3 test cases, los cuales stán en el documento Excel. 
+2. Los test cases han sido automatizados con Cypress
+3. Se utilizó ela siguiente página: http://www.testingyes.com/onlineshop
+4. El archivo Commands ha sido odificado porque he creado comandos customizados para paremetrizar lo que se podía
